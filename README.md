@@ -1,3 +1,10 @@
+You need download 'resnet152.pth'(https://drive.google.com/file/d/18C2YfPkj3GRWcDz7yNBAMsB1fDRCoG07/view?usp=sharing) and 'resnext-101-64f-kinetics.pth'(https://drive.google.com/file/d/1A416JN5FvDvOw8wM7D_VUZ3o4uE57iMG/view?usp=sharing). Then put them in the main folder.
+You
+
+
+
+
+
 # Video Classification Using 3D ResNet
 This is a pytorch code for video (action) classification using 3D ResNet trained by [this code](https://github.com/kenshohara/3D-ResNets-PyTorch).  
 The 3D ResNet is trained on the Kinetics dataset, which includes 400 action classes.  
