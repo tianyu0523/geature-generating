@@ -26,6 +26,7 @@ Run
 python main_img_train.py --mode feature
 ```
 to get motion features of train set
+
 Run
 ```
 python main_img_val.py --mode feature
