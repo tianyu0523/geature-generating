@@ -1,5 +1,5 @@
 You need download ['resnet152.pth'](https://drive.google.com/file/d/18C2YfPkj3GRWcDz7yNBAMsB1fDRCoG07/view?usp=sharing) and ['resnext-101-64f-kinetics.pth'](https://drive.google.com/file/d/1A416JN5FvDvOw8wM7D_VUZ3o4uE57iMG/view?usp=sharing). Then put them in the main folder.
-You
+You also need download the [images](https://drive.google.com/file/d/1IYFQHJLuR02_5ZYS4iyZePc1EfyBNMza/view?usp=sharing), unzip and put the 'visual_data' folder in the main folder.
 
 
 
